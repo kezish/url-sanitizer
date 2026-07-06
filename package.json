@@ -1,0 +1,8 @@
+{
+  "name": "url-sanitizer",
+  "version": "1.0.0",
+  "description": "Blocks token-wasteful URL reads and suggests raw/API alternatives",
+  "omp": {
+    "extensions": ["./index.ts"]
+  }
+}
